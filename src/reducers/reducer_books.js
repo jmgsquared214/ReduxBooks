@@ -4,5 +4,5 @@ export default function() {
     { title: ' A Million Little Pieces ' },
     { title: ' Go Ask Alice ' },
     { title: ' Augusta Gone ' }
-  ]
+  ];
 }
